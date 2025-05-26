@@ -8,4 +8,4 @@ Initially, I worked on the state of the art concerning the generation of synthet
 "SoTA Synthetic Data V2"
 ## First generation
 I then carried out my first tests on the Adults dataset from the Irvine database.
-"adults_dataset.py"
+Using my script : "adults_dataset.py"
