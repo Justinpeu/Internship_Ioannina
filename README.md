@@ -17,4 +17,4 @@ Test only with VAE generator : ![Image](https://github.com/user-attachments/asse
 ### Second try : multiple generation with more generator
 First generation with multiple generator (CopulaGANSynthesizer, TVAESynthesizer, CTGANSynthesizer, GaussianCopulaSynthesizer) :![density_plot_multiple_generator4X4](https://github.com/user-attachments/assets/45e29f2d-fa19-46d1-b581-32787a4a26aa)
 Second generation : 
-Third generation :
+/ Third generation :
