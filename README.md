@@ -13,4 +13,5 @@ Using my script : "adults_dataset.py"
 ## Second Generation
 The goal is to build a density plot from multiple generator for each feature from the real dataset and the synthetic dataset :
 ### First try 
-Test only with VAE generator : 
+Test only with VAE generator : ![Image](https://github.com/user-attachments/assets/15cf8b93-04cc-49ad-9415-079ff6ee1f15)
+
