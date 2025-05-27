@@ -9,3 +9,8 @@ Initially, I worked on the state of the art concerning the generation of synthet
 ## First generation
 I then carried out my first tests on the Adults dataset from the Irvine database.
 Using my script : "adults_dataset.py"
+
+## Second Generation
+The goal is to build a density plot from multiple generator for each feature from the real dataset and the synthetic dataset :
+### First try 
+Test only with VAE generator : 
