@@ -8,7 +8,14 @@ Initially, I worked on the state of the art concerning the generation of synthet
 "SoTA Synthetic Data V2"
 ## First generation
 I then carried out my first tests on the Adults dataset from the Irvine database.
-Using my script : "adults_dataset.py"
+Using my script : "adults_dataset.py"  
+Results and evaluation :  
+1st Generation :  
+![image](https://github.com/user-attachments/assets/8f0f826a-4bb9-44a3-96e1-079b4dd92c67) ![image](https://github.com/user-attachments/assets/665acb52-ebe8-402a-b493-61ab956e7633)  
+2nd Generation :  
+![image](https://github.com/user-attachments/assets/5f864385-f31a-4e1b-9990-756c0d01d249) ![image](https://github.com/user-attachments/assets/b23da55c-9573-4d69-9d8c-822bfeaeba4b)  
+3rd Generation :  
+![image](https://github.com/user-attachments/assets/3ab90247-a059-4c3e-a3f1-56838c8ccca5) ![image](https://github.com/user-attachments/assets/533f52e3-0e68-45fe-893b-00497b116036)  
 
 ## Second Generation
 The goal is to build a density plot from multiple generator for each feature from the real dataset and the synthetic dataset :
