@@ -6,8 +6,8 @@ The aim of the internship is to generate synthetic data in the medical field.
 ## State Of Art Synthetic Data
 Initially, I worked on the state of the art concerning the generation of synthetic data, researching the methods, the aim and what synthetic data are.
 "SoTA Synthetic Data V2"
-## First generation
-I then carried out my first tests on the Adults dataset from the Irvine database.
+## First Generation synthetic data
+I then carried out my first tests on the Adults dataset from the Irvine database with multiple generations with multiples generator (CopulaGANSynthesizer, TVAESynthesizer, CTGANSynthesizer, GaussianCopulaSynthesizer).
 Using my script : "adults_dataset.py"  
 Results and evaluation :  
 1st Generation :  
@@ -17,8 +17,8 @@ Results and evaluation :
 3rd Generation :  
 ![image](https://github.com/user-attachments/assets/3ab90247-a059-4c3e-a3f1-56838c8ccca5) ![image](https://github.com/user-attachments/assets/533f52e3-0e68-45fe-893b-00497b116036)  
 
-## Second Generation
-The goal is to build a density plot from multiple generator for each feature from the real dataset and the synthetic dataset :
+## Second Generation synthetic data
+The goal is to build a density plot from multiple generator for each feature from the real dataset and the synthetic dataset on the same dataset ("Adults"):
 ### First try 
 Test only with VAE generator : ![Image](https://github.com/user-attachments/assets/15cf8b93-04cc-49ad-9415-079ff6ee1f15)
 ### Second try : multiple generation with more generator
