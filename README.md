@@ -16,5 +16,6 @@ The goal is to build a density plot from multiple generator for each feature fro
 Test only with VAE generator : ![Image](https://github.com/user-attachments/assets/15cf8b93-04cc-49ad-9415-079ff6ee1f15)
 ### Second try : multiple generation with more generator
 First generation with multiple generator (CopulaGANSynthesizer, TVAESynthesizer, CTGANSynthesizer, GaussianCopulaSynthesizer) :![density_plot_multiple_generator4X4](https://github.com/user-attachments/assets/45e29f2d-fa19-46d1-b581-32787a4a26aa)
-Second generation :  
+Second generation :![density_plot_multiple_generator4X4_2nd_gen](https://github.com/user-attachments/assets/ead37614-5104-44b1-ab2e-7088be22e375)
+
 Third generation :
