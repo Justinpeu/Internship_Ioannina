@@ -10,7 +10,7 @@ Initially, I worked on the state of the art concerning the generation of synthet
 I then carried out my first tests on the Adults dataset from the Irvine database with multiple generations with multiples generator (CopulaGANSynthesizer, TVAESynthesizer, CTGANSynthesizer, GaussianCopulaSynthesizer).
 Using my script : "adults_dataset.py"  
 Results and evaluation :  
-To analyze the synthetic data and evaluate them, I use different metrics : KL divergence, Jensen Shannon entropy, Hellinger distance and Goodness of fit
+To analyze the synthetic data and evaluate them, I use different metrics : KL divergence, Jensen Shannon entropy, Hellinger distance and Goodness of fit.  
 1st Generation :  
   
 ![image](https://github.com/user-attachments/assets/8f0f826a-4bb9-44a3-96e1-079b4dd92c67) ![image](https://github.com/user-attachments/assets/665acb52-ebe8-402a-b493-61ab956e7633)  
