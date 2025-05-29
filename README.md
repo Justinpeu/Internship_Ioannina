@@ -45,4 +45,6 @@ Third generation :
 ![density_plot_multiple_generator4X4_3rd_gen](https://github.com/user-attachments/assets/7a9241c1-ff80-4b58-8f17-3a8c421bba38)
 
 Generation with augmented size of real samples (1000 on the 3 first generation and 5000 on this one) :  
-![density_plot_multiple_generator4X4_5000_realsamples](https://github.com/user-attachments/assets/44637e06-3e31-432b-ac61-eefb77c33503)
+1st :  ![density_plot_multiple_generator4X4_5000_realsamples](https://github.com/user-attachments/assets/44637e06-3e31-432b-ac61-eefb77c33503)
+2nd :  ![density_plot_multiple_generator4X4_5000_realsamples_2nd](https://github.com/user-attachments/assets/f09df176-208b-4674-b07e-bf9eb5086fa1)
+
