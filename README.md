@@ -48,3 +48,12 @@ Third generation :
 1st :  ![density_plot_multiple_generator4X4_5000_realsamples](https://github.com/user-attachments/assets/44637e06-3e31-432b-ac61-eefb77c33503)
 2nd :  ![density_plot_multiple_generator4X4_5000_realsamples_2nd](https://github.com/user-attachments/assets/f09df176-208b-4674-b07e-bf9eb5086fa1)
 
+## Generation with a new dataset :
+1st :![data_bank_density_plot](https://github.com/user-attachments/assets/26149c53-1f6d-4340-a8f0-5f291c7c85c1)
+
+2nd :![data_bank_density_plot_Generation2](https://github.com/user-attachments/assets/41cd86d9-1d6f-4e55-b5eb-24db36a643e6)
+
+
+### Generation with a new generator BGMMOCE (prototype from Vasilis Pezoulas) :
+1st :
+2nd (BGMMOCE with 500 synthetic samples) : 
