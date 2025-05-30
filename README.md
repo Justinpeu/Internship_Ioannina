@@ -55,5 +55,7 @@ Third generation :
 
 
 ### Generation with a new generator BGMMOCE (prototype from Vasilis Pezoulas) :
-1st :
-2nd (BGMMOCE with 500 synthetic samples) : 
+1st :![data_bank_BGMMOCE_test](https://github.com/user-attachments/assets/2d0e85c0-8a4f-42d0-8628-be127f1e9b7f)
+
+2nd (BGMMOCE with 500 synthetic samples) : ![data_bank_BGMMOCE_500samples](https://github.com/user-attachments/assets/248e32f2-655a-452e-b21c-224b52d58f96)
+
